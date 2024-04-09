@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GEOG 6165 Daniel Kirkegaard</title>
+    <link rel="stylesheet" href="/Users/dskirkegaard/Documents/Data Visualization/exercises/W11/W11 Exercise CSS">
+</head>
+
+<body>
+    <!-- GEOG 6165: Data Visualization -->
+    <!-- Daniel Kirkegaard -->
+    <!-- April 9, 2024 -->
+
+    <header>
+        <h1>Daniel Kirkegaard</h1>
+    </header>
+
+    <nav>
+        <h2>My Projects</h2>
+        <ul>
+            <li><a href="#">Assignment 1</a></li>
+            <li><a href="#">Assignment 2</a></li>
+            <li><a href="#">Assignment 3</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="profile-image">
+            <img src="path_to_your_image.jpg" alt="Daniel Kirkegaard">
+        </section>
+
+        <section id="profile-info">
+            <h2>Program</h2>
+            <p>B.S. in Geography</p>
+            <p>Minor in Environmental and Sustainable Studies</p>
+            <p>GIS Certification</p>
+            <p>Currently pursuing a MSGIS</p>
+
+            <h2>Research Interests</h2>
+            <ul>
+                <li>Water Management</li>
+                <li>Public Utilities</li>
+                <li>Biodiversity Loss</li>
+            </ul>
+
+            <h2>Email</h2>
+            <p><a href="mailto:u0456048@utah.edu">u0456048@utah.edu</a></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Kirkegaard</p>
+    </footer>
+</body>
+
+</html>
